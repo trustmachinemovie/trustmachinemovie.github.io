@@ -1,0 +1,5 @@
+name: The trust machine
+description: The trust machine
+paginate: 10
+baseurl: "/"
+encoding: utf-8
